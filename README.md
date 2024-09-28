@@ -16,7 +16,7 @@ Result-driven service-oriented individual with over 3 years of experience as a T
   
 - **Scripting & Automation:**
   - Hands-on experience with Linux-Based System CLI & Kernel commands
-  - Proficient in Powershell, Bash, Python scripting (Netmiko/Paramiko), RESTful API, NETCONF
+  - Proficient in PowerShell, Bash, Python scripting (Netmiko/Paramiko), RESTful API, NETCONF
 
 - **Version Control:**
   - Well-skilled with GitHub, GitLab, Bitbucket, and Artifactory
@@ -45,21 +45,27 @@ Result-driven service-oriented individual with over 3 years of experience as a T
 **Dalhousie University** (Remote)  
 _AUG 2023 - PRESENT_
 
-- Managed and resolved IT and security-related incidents using ServiceNow and Footprints, prioritizing tickets to meet SLAs.
-- Monitored security events and identified threats using CrowdStrike Falcon EDR.
-- Performed regular patching and updates on servers to maintain security and compliance.
+- Managed and promptly resolved both general IT and security-related incidents using ticketing systems like ServiceNow and Footprints; prioritized and quickly resolved tickets by following SLAs and ensuring SOPs.
+- Monitored security events and identified threats using CrowdStrike Falcon EDR, coordinating with other teams for resolution.
+- Performed regular patching and updates on servers to maintain security and compliance across university systems.
 - Integrated SIEM solutions (Splunk) for log analysis and threat detection.
-- Provided in-person/on-call support for technical issues across various operating systems, reducing resolution time by 65%.
+- Conducted labs (IDS/IPS, ACL, DMVPN, BGP, OSPF, MPLS-TE, SDWAN) and guided students through software installation.
+- Worked with Azure Active Directory, Brightspace access, and implemented SSO and MFA to enhance security.
+- Assisted students with Brightspace Learning Management System by addressing issues on Microsoft Teams and ITS.
+- Provided in-person/on-call support for technical issues on Windows, macOS, and Linux systems used by faculty, staff, and students, reducing average resolution time by 65%.
 
 ### Information Technology Analyst
 **Truck Lagbe Ltd** (Dhaka, Bangladesh)  
 _JUL 2020 - NOV 2022_
 
-- Collaborated with sales and technical teams to expedite resolutions.
-- Implemented IT audit controls and reporting for application access compliance.
-- Delivered Tier 1 and Tier 2 support for application software issues.
-- Maintained 99.9% system availability by documenting incidents via Freshdesk.
-- Led initiatives that improved data accuracy and reduced reporting errors by 90%.
+- Worked closely with sales, technical support, engineering, and operations teams to expedite resolutions for both internal clients and external vendors.
+- Implemented IT audit controls and reporting related to application access, ensuring compliance with internal and external audit requirements.
+- Delivered Tier 1 and Tier 2 support both remotely and onsite for application software and connectivity issues.
+- Provided daily operational support and documented incidents/changes via the internal ticketing system (Freshdesk), achieving 99.9% system availability and maximum uptime.
+- Performed network configuration and troubleshooting of BGP, OSPF, and MPLS-based core networks.
+- Worked with network operational tools (NMS/EMS) for monitoring, inspection, and fault diagnostics on live SDH/L3 networks.
+- Regularly refreshed KPIs including handle time and NPS/CES scores to measure the effectiveness and efficiency of the ITSM process, improving by 70%.
+- Led a team initiative to improve data accuracy, resulting in a 90% reduction in reporting errors.
 
 ---
 
@@ -76,17 +82,22 @@ _Grade: A+_
 
 ### Intelligent Intrusion Detection System (IIDS)
 _JUL 2024_
-- Developed an IDS in an isolated lab environment using Containerlab, generating DDoS and Botnet attacks.
-- Implemented Tailscale VPN for secure connections between local management and remote VM.
-- Achieved a 99.84% accuracy rate for identifying anomalous traffic using machine learning.
+- Developed an IDS in an isolated lab environment using Containerlab, generating DDoS and Botnet attacks from Linux hosts to a targeted web server.
+- Implemented Tailscale VPN for end-to-end connection between Local Management Machine (Control Interface) and Remote Virtual Machine (Containerlab Host).
+- Captured malicious traffic data converted to CSV format using CICFlowMeter; performed PCA on 77 features from PCAP files.
+- Achieved an accuracy rate of 99.84% for identifying anomalous traffic through machine learning models.
 
 ### Forest Fire Detection using Real-Time Captured Images
 _JUN 2019_
-- Created an algorithm to detect fire regions in images using OpenCV and CNN, achieving 93% accuracy.
+- Developed an algorithm to detect fire regions in images or video frames using OpenCV's HSV color space, background subtraction MOG algorithm, and contour detection.
+- Trained a neural network model with fire and non-fire image datasets in CNN, achieving an accuracy rate of 93%.
 
 ### Automatic Anomaly Detection Using Surveillance Security Videos
 _MAY 2020_
-- Developed a multiple instance learning algorithm for detecting anomalies in surveillance videos, achieving an ROC AUC of 71.5%.
+- Developed an algorithm based on multiple instance learning with a deep MIL ranking model.
+- Utilized a C3D auto-encoder to segment videos (UCF crime dataset) and extract optical flow features.
+- Created a demo web app for visualization, achieving an overall ROC AUC of 71.5%.
+- Worked on extracting features using PWC Net to enhance accuracy for future improvements.
 
 ---
 
